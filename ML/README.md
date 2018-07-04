@@ -1,6 +1,6 @@
 # Machine Learning with `Python`
 
 ## Models Used
-* Linear Regression
+* Simple Linear Regression
 * Multiple Linear Regression
 * Artificial Neural Networks

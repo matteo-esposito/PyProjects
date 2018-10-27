@@ -5,3 +5,7 @@
 
 # Python Programming Exercices
 Data science and machine learning exercises using python.
+
+
+
+<img src="http://s9.picofile.com/file/8338227634/workflow.png" />

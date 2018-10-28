@@ -2,251 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6caad0c-f883-4b08-b67e-c2a9251b2ccf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Kaggle/GoogleStore/src/RStudio/GStore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaggle/GoogleStore/src/RStudio/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaggle/GoogleStore/src/RStudio/data_utils/ParseGStoreData.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaggle/GoogleStore/src/RStudio/data_utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaggle/HousePrices/HousePricesPy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaggle/Misc/DeepLearningPython.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaggle/Misc/xgbTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/DataCamp/Statement of Accomplishment-2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/DataCamp/Statement of Accomplishment-3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/DataCamp/Statement of Accomplishment-4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/DataCamp/Statement of Accomplishment.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/categorical_data.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/categorical_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing_template.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing_template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/missing_data.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/missing_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 4 - Simple Linear Regression/Salary_Data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 4 - Simple Linear Regression/data_preprocessing_template.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 4 - Simple Linear Regression/data_preprocessing_template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 4 - Simple Linear Regression/simple_linear_regression.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 4 - Simple Linear Regression/simple_linear_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 5 - Multiple Linear Regression/Step-by-step-Blueprints-For-Building-Models.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 5 - Multiple Linear Regression/multiple_linear_regression.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 5 - Multiple Linear Regression/multiple_linear_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Churn_Modelling.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Stochastic_Gradient_Descent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/ann.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/Machine Learning A-Z Template Folder/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/ann.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/src/2_DataPreprocessing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/src/31_ANN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/src/4_SLR.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/-ML_AZ/src/5_MLR.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/.ipynb_checkpoints/Introduction to Spark and Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/.ipynb_checkpoints/Lambda expressions -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/.ipynb_checkpoints/RDD Transformations and Actions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/.ipynb_checkpoints/example-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/.ipynb_checkpoints/example2-checkpoint.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/.ipynb_checkpoints/lecture_notes-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/Introduction to Spark and Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/Lambda expressions .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/RDD Transformations and Actions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/example.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/example2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Big-Data-and-Spark/services.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/.ipynb_checkpoints/SF Salaries Exercise- Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/911.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/Finance Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/Finance Project .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Data-Capstone-Projects/precipitation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/.ipynb_checkpoints/MNIST with Multi-Layer Perceptron-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow Basics-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow Project Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow Project Exercise-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow with ContribLearn-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/MNIST with Multi-Layer Perceptron.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/Tensorflow Basics.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/Tensorflow Project Exercise - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/Tensorflow Project Exercise.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/Tensorflow with ContribLearn.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Deep Learning/bank_note_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/.ipynb_checkpoints/Creating Fake Data-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/.ipynb_checkpoints/Ecommerce Customers-checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/.ipynb_checkpoints/Linear Regression with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/Ecommerce Customers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/Linear Regression - Project Exercise .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/Linear Regression with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/1.Linear-Regression/USA_Housing.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/.ipynb_checkpoints/Logistic Regression Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/.ipynb_checkpoints/Logistic Regression Project -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/.ipynb_checkpoints/Logistic Regression with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/Logistic Regression Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/Logistic Regression Project .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/Logistic Regression with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/advertising.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/titanic_test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/3.Logistic-Regression/titanic_train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors Project-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/Classified Data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/K Nearest Neighbors Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/K Nearest Neighbors with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/4.K-Nearest-Neighbors/KNN_Project_Data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forest Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forest Project -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forests in Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/Decision Trees and Random Forests in Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/kyphosis.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/5.Decision-Trees-and-Random-Forests/loan_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering Project -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/K-Means-Clustering/College_Data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering Project .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP (Natural Language Processing) with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP Project -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/NLP (Natural Language Processing) with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/NLP Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/NLP Project .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/.ipynb_checkpoints/SMSSpamCollection-checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/SMSSpamCollection" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Natural-Language-Processing/yelp.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Pierian_Data_Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Principal-Component-Analysis/.ipynb_checkpoints/PCA-checkpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Principal-Component-Analysis/.ipynb_checkpoints/Principal Component Analysis-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Principal-Component-Analysis/PCA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Principal-Component-Analysis/Principal Component Analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Recommender-Systems/.ipynb_checkpoints/Advanced Recommender Systems with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Recommender-Systems/.ipynb_checkpoints/Recommender Systems with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Recommender-Systems/Advanced Recommender Systems with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Recommender-Systems/Movie_Id_Titles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Recommender-Systems/Recommender Systems with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Recommender-Systems/u.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Recommender-Systems/u.item" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines Project - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines Project -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines with Python-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-Crash-Course/.ipynb_checkpoints/Python Crash Course-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-Crash-Course/Python Crash Course Exercises .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-Crash-Course/Python Crash Course.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/.ipynb_checkpoints/pandas exercises-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/NumPy Arrays-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Indexing and Selection-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Operations-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/Numpy Indexing and Selection.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/NumPy/Numpy Operations.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Data Input and Output-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/DataFrames-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Groupby-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Introduction to Pandas-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Merging, Joining, and Concatenating -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Missing Data-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Operations-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Series-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/DataFrames.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Excel_Sample.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Groupby.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Introduction to Pandas.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Missing Data.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Operations.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Ecommerce Purchases Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Ecommerce Purchases Exercise -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Ecommerce Purchases-checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/SF Salaries Exercise- Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/SF Salaries Exercise-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Salaries-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Salaries.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/Series.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pandas/multi_index_example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/Pierian_Data_Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/SciPy/.ipynb_checkpoints/SciPy-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Analysis/SciPy/SciPy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps Exercise -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/2011_US_AGRI_Exports" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/2012_Election_Data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/2014_World_GDP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/2014_World_Power_Consumption" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Geographical Plotting/plotly_cheat_sheet.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Advanced Matplotlib Concepts-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Concepts Lecture-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Exercises -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Built-in Data Visualization-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Data Visualization Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Data Visualization Exercise -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Pierian_Data_Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Plotly and Cufflinks/.ipynb_checkpoints/Plotly and Cufflinks-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Plotly and Cufflinks/Plotly and Cufflinks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Categorical Plots-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Distribution Plots-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Grids-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Matrix Plots-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Regression Plots-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises -checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Style and Color-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Categorical Plots.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Distribution Plots.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Grids.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Matrix Plots.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Regression Plots.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Seaborn Exercises - Solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Seaborn Exercises .ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/PyBootcamp/Python-for-Data-Visualization/Seaborn/Style and Color.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/.ipynb_checkpoints/wc_forecasts-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/.ipynb_checkpoints/wc_matches-checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/wc_forecasts.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/wc_matches.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/concordAI-workshop-1/kernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice/concordAI-workshop-1/kernel.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/WebScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/WebScraper.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -286,18 +44,86 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="1672070063">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="1" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="25" />
+          <entry key="py" value="2567" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2592" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/WebScraper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+              <folding>
+                <element signature="e#449#464#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/housing_data.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2240" />
-    <option name="y" value="-360" />
-    <option name="width" value="960" />
-    <option name="height" value="1057" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projects/WebScraper.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1280" />
+    <option name="y" value="-411" />
+    <option name="width" value="1920" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -309,8 +135,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="PyProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="python-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,7 +151,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -333,6 +164,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebScraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/WebScraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.WebScraper" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -348,42 +207,56 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2240" y="-360" width="960" height="1057" extended-state="0" />
+    <frame x="1280" y="-411" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24400872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32953367" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32953367" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="8" visible="true" weight="0.19689119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2580311" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.4286475" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataSci/Kaggle/GoogleStore/src/RStudio/GStore.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataSci/Kaggle/GoogleStore/src/RStudio/data_utils/ParseGStoreData.py">
+    <entry file="file://$PROJECT_DIR$/DataSci/Kaggle/GoogleStore/src/RStudio/GStore.py" />
+    <entry file="file://$PROJECT_DIR$/DataSci/Kaggle/GoogleStore/src/RStudio/data_utils/ParseGStoreData.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/bs4/element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="796">
+          <caret line="1883" selection-start-line="1883" selection-end-line="1883" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/housing_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/WebScraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#449#464#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,10 +1,11 @@
 # -----------------------------------------------------------------------#
 # 						Fall 2018 | Web Scraper      					 #
-#																		 #
-# Objectives: 															 #
-#	Find = [rent price, location, length of post, bed/bath, footprint]	 #
-#	Site = duproprio.com												 #
 # -----------------------------------------------------------------------#
+
+# Objectives: 											
+
+# Find = [rent price, location, length of post, bed/bath, footprint]	 
+# Site = duproprio.com												 
 
 # Libraries
 import requests

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a6caad0c-f883-4b08-b67e-c2a9251b2ccf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/concordAI-workshop-1/kernel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice/concordAI-workshop-1/kernel.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/WebScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/WebScraper.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +46,7 @@
     <session id="1672070063">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.opened" value="3" />
@@ -68,12 +67,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="25" />
-          <entry key="py" value="2567" />
+          <entry key="py" value="2596" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2592" />
+          <entry key="Python" value="2621" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/WebScraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+            <state relative-caret-position="360">
+              <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
               <folding>
                 <element signature="e#449#464#0" expanded="true" />
               </folding>
@@ -221,14 +220,14 @@
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="8" visible="true" weight="0.19689119" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2580311" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.19689119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2580311" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.4286475" />
+      <window_info anchor="right" id="Run" order="5" weight="0.4286475" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -253,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/WebScraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+        <state relative-caret-position="360">
+          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
           <folding>
             <element signature="e#449#464#0" expanded="true" />
           </folding>

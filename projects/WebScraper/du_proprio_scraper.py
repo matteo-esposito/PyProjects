@@ -14,7 +14,7 @@ from csv import writer
 import re
 
 # Set page count (maximum available at time of writing: 2163 pages)
-maxPage = 2163
+maxPage = 10
 
 # "Open" csv to write header
 with open('du_proprio_scraped.csv', "w") as csv_file:

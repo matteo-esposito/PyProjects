@@ -35,7 +35,7 @@ def intToBin(n):
         
     
 # Sample set
-nums = [-34,-2,0,1,33,70,10042344232]
+nums = [-34,-2,0,1,33,70,256,257,258,259]
 
 for n in nums:
     print(intToBin(n)) 

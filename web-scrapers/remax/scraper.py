@@ -101,7 +101,7 @@ def parser():
                 # Url
                 url_elem = posting.find("a", class_="property-thumbnail")
                 if url_elem is not None:
-                    url_val = url_elem["href"]
+                    url_val = "https://www.remax-quebec.com/" + url_elem["href"]
 
                 # Write to csv file
                 csv_writer.writerow([price_val, desc_val, add_val, bb_val1, bb_val2, bb_val3, note_val, uls_val, url_val])

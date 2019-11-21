@@ -4,44 +4,47 @@ from csv import writer
 import re
 import time
 
+
 def timedRun(func, *args):
-    '''
-    Run and print main program and record how long it takes to execute.
-    Args:
-        func: a function
+    """ 
+    Return the output of the provided function and the amount of time elapsed
+    from the call of the function to the end of execution.
+
+    Arguments:
+        func {function} -- A method that needs to be timed.
         *args: argument(s) for the function provided
-    Returns:
-        The output of the provided function and the amount of time elapsed
-        from the call of the function to the end of execution.
-    '''
+    """
     start = time.clock()
     func(*args)
     end = time.clock()
     print('Time elapsed: ({0:.{1}f}s)'.format((end-start), 4))
 
-def parser():
-    '''
+
+def parser(maxPage=50):
+    """
     Function that scrapes housing data from remax.
-    Returns:
-        .csv file with multiple house characteristics
-    '''
-    # Set page count (maximum available at time of writing: 2163 pages)
-    maxPage = 50 # Change to 50
+
+    Keyword Arguments:
+        maxPage {int} -- Limit of number of pages to scrape (default: {50})
+    """
 
     # "Open" csv to write header
     with open('remax-scraped.csv', "w") as csv_file:
         csv_writer = writer(csv_file)
-        csv_writer.writerow(["Price", "Description", "Address", "# Bath", "# Bed", "# Water Room", "Note", "ULS", "Link"])
+        csv_writer.writerow(["Price", "Description", "Address",
+                             "# Bath", "# Bed", "# Water Room", "Note", "ULS", "Link"])
 
     for pgnum in range(0, maxPage-1):
-        url = "https://www.remax-quebec.com/fr/recherche/residentielle/resultats.rmx?offset=" + str(10*pgnum) + "#listing"
+        url = "https://www.remax-quebec.com/fr/recherche/residentielle/resultats.rmx?offset=" + \
+            str(10*pgnum) + "#listing"
 
         # Initial site access
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
 
         # Main envelope
-        posting_elements = soup.find(class_="listing-mosaik listing-properties")
+        posting_elements = soup.find(
+            class_="listing-mosaik listing-properties")
 
         # Individual ads
         ads = posting_elements.find_all(class_="property-entry")
@@ -56,17 +59,20 @@ def parser():
                 # Description
                 desc_elem = posting.find(class_="property-type")
                 if desc_elem is not None:
-                    desc_val = re.sub(r'[\t\r\n]', '', desc_elem.text).replace("             à", " à").rstrip()
+                    desc_val = re.sub(r'[\t\r\n]', '', desc_elem.text).replace(
+                        "             à", " à").rstrip()
 
                 # Prices
                 posting_price_elem = posting.find(class_="property-price")
                 if posting_price_elem is not None:
-                    price_val = posting_price_elem.text.replace("$", "").strip().replace("  ", " ")
+                    price_val = posting_price_elem.text.replace(
+                        "$", "").strip().replace("  ", " ")
 
                 # Address
                 address_elem = posting.find(class_="property-address")
                 if address_elem is not None:
-                    add_val = address_elem.find("h2").text.strip().replace('"', "").replace(",", " ")
+                    add_val = address_elem.find("h2").text.strip().replace(
+                        '"', "").replace(",", " ")
 
                 # Room counters
                 bb_elem = posting.find(class_="property-options")
@@ -89,7 +95,8 @@ def parser():
                         bb_val3 = re.sub("[^0-9]", "", str(bb_val[2]))
 
                 # Note
-                note_elem = posting.find(class_="property-special-infos property-special-infos-new")
+                note_elem = posting.find(
+                    class_="property-special-infos property-special-infos-new")
                 if note_elem is not None:
                     note_val = re.sub(r'[\t\r\n]', '', note_elem.text).strip()
 
@@ -101,11 +108,13 @@ def parser():
                 # Url
                 url_elem = posting.find("a", class_="property-thumbnail")
                 if url_elem is not None:
-                    url_val = "https://www.remax-quebec.com/" + url_elem["href"]
+                    url_val = "https://www.remax-quebec.com/" + \
+                        url_elem["href"]
 
                 # Write to csv file
-                csv_writer.writerow([price_val, desc_val, add_val, bb_val1, bb_val2, bb_val3, note_val, uls_val, url_val])
+                csv_writer.writerow(
+                    [price_val, desc_val, add_val, bb_val1, bb_val2, bb_val3, note_val, uls_val, url_val])
 
 
 if __name__ == "__main__":
-    timedRun(parser)
+    timedRun(parser(50))
